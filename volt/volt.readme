@@ -1,0 +1,2 @@
+To Build don't forget to export Classpath for Java VoltDB Library. For Example: 
+export CLASSPATH="$CLASSPATH:$HOME/voltdb-5.3/voltdb/*:$HOME/voltdb-5.3/lib/*:./"
